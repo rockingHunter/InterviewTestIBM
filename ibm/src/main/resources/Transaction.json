@@ -1,0 +1,27 @@
+	[
+		{
+			"accountNumber": "abc", 
+			"transactionTs": "2020-01-02T01:02:03.8Z", 
+			"type": "DEPOSIT", 
+			"amount": 89.1
+		},
+		{
+			"accountNumber": "abc", 
+			"transactionTs": "2020-01-03T01:03:03.8Z", 
+			"type": "WITHDRAW", 
+			"amount": 89.1
+		},
+		{
+			"accountNumber": "abc", 
+			"transactionTs": "2020-01-04T01:04:03.8Z", 
+			"type": "WITHDRAW", 
+			"amount": 89.1
+		}
+		,
+		{
+			"accountNumber": "def", 
+			"transactionTs": "2020-01-03T02:03:03.8Z", 
+			"type": "WITHDRAW", 
+			"amount": 89.1
+		}
+	]
