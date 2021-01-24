@@ -1,7 +1,6 @@
 package com.example.service;
 
 import java.util.List;
-import com.example.model.ClientTransactions;
 import com.example.model.TransactionInformation;
 
 public interface BalanceService {
